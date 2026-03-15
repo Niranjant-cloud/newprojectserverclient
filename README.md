@@ -13,3 +13,4 @@ This project contains a simple client-server chat application.
 
 ```bash
 python serve.py
+python3 client.py
